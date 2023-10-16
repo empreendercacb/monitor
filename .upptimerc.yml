@@ -9,6 +9,9 @@ sites:
     url: https://teste.cacbempreenderapp.org.br/sistema
   - name: "Portal Empreender - Teste Beta"
     url: http://beta.cacbempreenderapp.org.br/
+  - name: "API V5 - Teste Beta"
+    url: https://api.cacbempreenderapp.org.br/
+    
 
     
     
