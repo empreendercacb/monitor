@@ -22,18 +22,20 @@
     "url": "http://ensinocacb.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/ensinocacb.org.br.ico",
     "slug": "ensino-cacb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3663,
     "timeDay": 5869,
     "timeWeek": 3663,
     "timeMonth": 3663,
     "timeYear": 3663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   },
   {
     "name": "Portal Empreender - Teste",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cacbempreenderapp.org.br.ico",
     "slug": "portal-empreender-teste-beta",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.77%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 422,
     "timeDay": 284,
     "timeWeek": 422,
     "timeMonth": 422,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 22
     }
   },
   {
