@@ -24,7 +24,7 @@
     "url": "http://ensinocacb.org.br",
     "icon": "https://icons.duckduckgo.com/ip3/ensinocacb.org.br.ico",
     "slug": "ensino-cacb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 1979,
     "timeYear": 2216,
     "dailyMinutesDown": {
+      "2023-11-22": 0,
       "2023-10-20": 83
     }
   },
@@ -63,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.cacbempreenderapp.org.br.ico",
     "slug": "portal-empreender-teste-beta",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 412,
     "timeDay": 556,
     "timeWeek": 425,
