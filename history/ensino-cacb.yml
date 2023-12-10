@@ -1,7 +1,7 @@
 url: http://ensinocacb.org.br
-status: up
-code: 200
-responseTime: 2746
-lastUpdated: 2023-12-10T01:46:41.656Z
+status: down
+code: 503
+responseTime: 1971
+lastUpdated: 2023-12-10T19:56:10.727Z
 startTime: 2023-10-16T17:43:30.687Z
 generator: Upptime <https://github.com/upptime/upptime>
