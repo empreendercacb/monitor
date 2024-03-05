@@ -1,7 +1,7 @@
 url: https://api.cacbempreenderapp.org.br/
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2024-03-04T23:01:45.160Z
+status: down
+code: 502
+responseTime: 243
+lastUpdated: 2024-03-05T11:08:19.407Z
 startTime: 2023-10-16T15:07:23.781Z
 generator: Upptime <https://github.com/upptime/upptime>
