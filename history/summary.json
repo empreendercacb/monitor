@@ -54,19 +54,19 @@
     "url": "https://teste.cacbempreenderapp.org.br/sistema",
     "icon": "https://icons.duckduckgo.com/ip3/teste.cacbempreenderapp.org.br.ico",
     "slug": "portal-empreender-teste",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 316,
-    "timeWeek": 353,
-    "timeMonth": 334,
-    "timeYear": 323,
+    "time": 339,
+    "timeDay": 2530,
+    "timeWeek": 902,
+    "timeMonth": 476,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-07-24": 0
+      "2024-07-24": 16
     }
   },
   {
